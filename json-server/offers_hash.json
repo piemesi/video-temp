@@ -1,0 +1,10 @@
+{
+  "offers": [
+    {
+      "id": "L1RvdXJzL0V1cm9wZS9UdXJrZXkvQW50YWx5YS9iZWxlay9CZWxlay1DZW50ZXIvVFVJLU1hZ2ljLUxpZmUtQmVsZWsv",
+      "path": "/var/www/walker/public/hotel_data/L1RvdXJzL0V1cm9wZS9UdXJrZXkvQW50YWx5YS9iZWxlay9CZWxlay1DZW50ZXIvVFVJLU1hZ2ljLUxpZmUtQmVsZWsv",
+      "url": "http://localhost:8888/hotel_data/L1RvdXJzL0V1cm9wZS9UdXJrZXkvQW50YWx5YS9iZWxlay9CZWxlay1DZW50ZXIvVFVJLU1hZ2ljLUxpZmUtQmVsZWsv",
+      "operator": "tui"
+    }
+  ]
+}
